@@ -8,13 +8,13 @@ Bekturali
 
 Orozov
 	
-17year
+17years
 	
 student of college AIU
 	                    
 	
 	                  contact: +996505050305,
-	                  email: bektur.orozov
+	                  email: bektur.orozov@gmail.kg
 
 </body>
 </html>
