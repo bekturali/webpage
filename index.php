@@ -4,6 +4,17 @@
 	<title>My webpage</title>
 </head>
 <body>
-This is my first webpage.
+Bekturali
+
+Orozov
+	
+17year
+	
+student of college AIU
+	                    
+	
+	                  contact: +996505050305,
+	                  email: bektur.orozov
+
 </body>
 </html>
